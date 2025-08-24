@@ -10,3 +10,6 @@ It uses `matplotlib` for plotting and animation.
 ## ⚙️ Requirements
 Make sure you have Python 3 installed along with the following libraries:
 pip install numpy matplotlib
+## 🎬 Preview
+
+[Animated Sine Wave](animated_sine_wave.gif)
